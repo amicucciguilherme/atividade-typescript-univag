@@ -27,4 +27,4 @@ class ProcessadorDeVendas {
 const processador = new ProcessadorDeVendas();
 const meuPix = new PagamentoPix();
 
-processador.executar(meuPix, 150.00);
+processador.executar(meuPix, 150.00); 
